@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/taylonr/managing-files-with-nodejs/issues"
   },
-  "homepage": "https://github.com/taylonr/managing-files-with-nodejs#readme"
+  "homepage": "https://github.com/taylonr/managing-files-with-nodejs#readme",
+  "dependencies": {
+    "camelcase": "^7.0.1"
+  },
+  "type": "module"
 }
